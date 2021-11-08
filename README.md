@@ -1,1 +1,1 @@
-# Business Analytics Translator --> BAT
+# Business Analytics Translator
