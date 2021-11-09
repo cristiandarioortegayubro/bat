@@ -1,0 +1,12 @@
+Fecha,Comprobante,Cliente,Tipo,Producto/Servicio,Descripción del Producto,Centro de Costo,Observaciones,Moneda,Vendedor,Cantidad,Precio,Descuento,Importe Mon. Transacción,Importe Mon. Ppal.
+17/4/2020,B-0001-00000104,Consumidor Final,Factura,Cable RGB para video,,,,Pesos Argentinos,,10,"123,9669",0,"1239,67","1239,67"
+27/3/2020,A-0001-00000240,Nicolasen y Asociados S.A.,Factura,Consultoria Digital,,Administración,,Pesos Argentinos,,12,7400,0,88800,88800
+20/3/2020,A-0001-00000239,Manganello S.R.L,Factura,PC,,Ventas A2,,Pesos Argentinos,,8,49505,0,396040,396040
+17/3/2020,A-0001-00000238,Nicolasen y Asociados S.A.,Factura,Monitores,,Ventas A1,,Pesos Argentinos,,15,7850,0,117750,117750
+3/3/2020,A-0001-00000237,Horizonte S.A.,Factura,Insumos oficina,,Ventas A1,,Pesos Argentinos,,10,"7252,3",0,72523,72523
+29/2/2020,A-0001-00000236,Manganello S.R.L,Factura,Consultoria Web,,Administración,,Pesos Argentinos,,10,5890,0,58900,58900
+13/2/2020,A-0001-00000235,Ignition S.A.C.I,Factura,Insumos oficina,,Ventas A2,,Pesos Argentinos,,25,6100,0,152500,152500
+6/2/2020,A-0001-00000234,Horizonte S.A.,Factura,Mercaderia de Reventa,,Ventas A1,,Pesos Argentinos,,30,15230,0,456900,456900
+17/1/2020,B-0001-00000103,Horacio Aguirre,Factura,Consultoria Digital,,Administración,,Pesos Argentinos,,10,6300,0,63000,63000
+8/1/2020,A-0001-00000233,Hernandez S.A.,Factura,Mercaderia de Reventa,,Ventas A2,,Pesos Argentinos,,45,10500,0,472500,472500
+3/1/2020,A-0001-00000232,Campomas S.A.,Factura,Teclado,,Ventas A1,,Pesos Argentinos,,30,3330,0,99900,99900
